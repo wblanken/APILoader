@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "APILoader",
+	"Description": "A sample Unreal plugin to demonstrate an editor tool built with Slate UI that downloads data from an API and generates data assets.",
+	"Category": "Other",
+	"CreatedBy": "Will Blankenship",
+	"CreatedByURL": "https://github.com/wblanken/APILoader",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "APILoader",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
